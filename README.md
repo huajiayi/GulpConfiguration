@@ -17,6 +17,7 @@ npm start 或 npm dev
 部署生产环境
 ```
 npm build 
+```
 清理dist文件夹
 ```
 npm clean 
