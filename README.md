@@ -16,15 +16,15 @@ gulp init
 
 </br>部署开发环境
 ```
-npm start 或 npm dev 
+npm start 或 npm run dev 
 ```
 
 </br>部署生产环境
 ```
-npm build 
+npm run build 
 ```
 
 </br>清理dist文件夹
 ```
-npm clean 
+npm run clean 
 ```
